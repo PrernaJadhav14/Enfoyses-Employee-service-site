@@ -1,0 +1,2 @@
+# Enfoyses-Employee-service-site
+The site is basically made using python GUI gives the employee of the Company( for this project I considered company name ‘Kindle’) to see their total number of service year, and accordingly it calculates the total salary they would earn by the end of there service. Also the salary would be calculated on the as per the 6% increment of salary per year and accordingly the salary with 15% PF amount will be calculated. 
